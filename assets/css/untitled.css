@@ -6,7 +6,3 @@ a:hover {
   color: var(--bs-gray-dark);
 }
 
-a:visited {
-  color: var(--bs-gray-200);
-}
-
