@@ -3,14 +3,14 @@ a:link {
 }
 
 a:link {
-  color: #000000;
+  color: black;
 }
 
 a:hover {
-  color: var(--bs-gray-700);
+  color: gray;
 }
 
 a:hover {
-  color: var(--bs-gray-700);
+  color: gray;
 }
 
