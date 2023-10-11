@@ -2,11 +2,3 @@ a:link {
   color: black;
 }
 
-a:link {
-  color: black;
-}
-
-a:hover {
-  color: var(--bs-gray-dark);
-}
-
